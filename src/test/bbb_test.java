@@ -11,7 +11,7 @@ public class bbb_test {
 		ChromeDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		//test
-		//new
+		//new_2
 
 	}
 
